@@ -13,7 +13,7 @@ export default function Home() {
           Welcome to <a href="https://nextjs.org">Next.js!</a>
         </h1>
 
-        <iframe src="https://staging.ifeelonline.com/widgets/users/login" width="900" height="600" frameBorder="0"></iframe>
+        
       </main>
 
       <footer>
