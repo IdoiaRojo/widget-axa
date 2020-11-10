@@ -5,7 +5,7 @@ const Widget = () => {
   const url_local = 'http://localhost:3000/widgets/users/login';
   // const url_local = 'http://localhost:3000/widgets/conversations/patient';
   // const url_local = 'http://localhost:3000/';
-  useEffect(() => {
+  /*useEffect(() => {
     window.addEventListener('load', () => {
       console.log('LISTO!');
       navigator.getUserMedia = ( navigator.getUserMedia ||
@@ -18,7 +18,7 @@ const Widget = () => {
       
     });
     
-  }, [])
+  }, [])*/
     
   return(
     <>
